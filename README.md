@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 About Me:
 ### Hey, I'm Jonathan 👋<br><br>I'm a student at SAE Institute Bochum, studying **Games Programming (Advanced Diploma)**.  <br>I’m into **coding, music production, and creative tech projects** — from developing tools and bots to experimenting with game logic and interactive systems.<br><br>My past projects include:<br>- Building **Discord bots** with custom configuration systems  <br>- Developing **local Linux servers** for personal automation  <br>- Creating **interactive and efficient code structures** for games and utilities  <br><br>I’m detail-oriented, logical, and always exploring ways to merge creativity with functionality — whether it’s in **code, sound design, or game mechanics**.<br><br>🧠 Always learning.  <br>💻 Always building.  <br>🎧 Always creating.
 
 
