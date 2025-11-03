@@ -22,7 +22,7 @@ I thrive at the intersection of logic and creativity, focusing on precision, sca
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/thisisavoiid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://tiktok.com/@thisisavoiid) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch\&logoColor=white)](https://twitch.tv/thisisavoiid) [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/thisisavoiid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@@thisisavoiid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:huberjonathan@outlook.de)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/thisisavoiid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://tiktok.com/@thisisavoiid) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch\&logoColor=white)](https://twitch.tv/thisisavoiid) [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/thisisavoiid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@thisisavoiid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:huberjonathan@outlook.de)
 
 ---
 
