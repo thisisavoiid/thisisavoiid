@@ -4,15 +4,15 @@
 
 ### Hey, I'm Jonathan 👋<br><br>
 
-I’m a **Games Programming (Advanced Diploma) student at SAE Institute Bochum** with a passion for turning ideas into interactive, functional, and creative solutions. My interests span **coding, music production, and innovative tech projects**, from building practical tools and bots to experimenting with game logic and immersive systems.<br><br>
+I’m a Games Programming (Advanced Diploma) student at SAE Institute Bochum with a passion for turning ideas into interactive, functional, and creative solutions. My interests span coding, music production, and innovative tech projects, from building practical tools and bots to experimenting with game logic and immersive systems.<br><br>
 
 Some of my key projects and experiences include:<br>
 
-* Designing **custom Discord bots** with robust configuration and modular systems.<br>
-* Setting up **local Linux servers** for personal automation and development workflows.<br>
-* Creating **efficient and interactive code structures** for games, utilities, and creative projects.<br><br>
+* Designing custom Discord bots with robust configuration and modular systems.<br>
+* Setting up local Linux servers for personal automation and development workflows.<br>
+* Creating efficient and interactive code structures for games, utilities, and creative projects.<br><br>
 
-I thrive at the intersection of logic and creativity, focusing on precision, scalability, and usability — whether that’s in **game mechanics, software development, or sound design**.<br><br>
+I thrive at the intersection of logic and creativity, focusing on precision, scalability, and usability. Whether that’s in game mechanics, software development, or sound design.<br><br>
 
 🧠 Lifelong learner.  <br>
 💻 Passionate builder.  <br>
@@ -43,10 +43,6 @@ I thrive at the intersection of logic and creativity, focusing on precision, sca
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=thisisavoiid\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ---
 
