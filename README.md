@@ -1,7 +1,8 @@
 # 👤 About Me:
 
 ### Hello, I’m Jonathan 👋<br>
-I am currently pursuing an Advanced Diploma in Games Programming at SAE Institute Bochum. I specialize in transforming ideas into interactive, functional, and engaging digital experiences. My work spans software development, game systems, music production, and a variety of tech projects, including practical tools, automation scripts, and experimental applications.<br>
+I am currently pursuing an Advanced Diploma in Games Programming at SAE Institute Bochum. I specialize in transforming ideas into interactive, functional, and engaging digital experiences. My work spans software development, game systems, music production, and a variety of tech projects, including practical tools, automation scripts, and experimental applications.<br><br>
+
 Key projects and experience include:
 * Developing modular and configurable software and Discord bots for diverse use cases.<br>
 * Designing and maintaining local Linux servers to support automation, development workflows, and project testing.<br>
