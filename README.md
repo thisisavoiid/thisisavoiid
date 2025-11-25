@@ -1,18 +1,25 @@
 # 👤 About Me:
 
-### Hello, I’m Jonathan 👋<br>
-I am currently pursuing an Advanced Diploma in Games Programming at SAE Institute Bochum. I specialize in transforming ideas into interactive, functional, and engaging digital experiences. My work spans software development, game systems, music production, and a variety of tech projects, including practical tools, automation scripts, and experimental applications.<br><br>
+### Hello, I’m Jonathan 👋
 
-Key projects and experience include:
-* _Developing modular and configurable software and Discord bots for diverse use cases._<br>
-* _Designing and maintaining local Linux servers to support automation, development workflows, and project testing._<br>
-* _Writing clean, efficient, and scalable code in C# and Python for games, utilities, and creative applications._<br><br>
+I am currently pursuing an **Advanced Diploma in Games Programming at SAE Institute Bochum**, focusing on the development of functional, engaging, and highly maintainable digital experiences. My technical specialization lies in **C# and Python**, where I prioritize clean architecture, systematic problem-solving, and robust implementation across diverse software domains.
 
-I thrive at the intersection of logic and creativity, focusing on precision, scalability, and usability across game mechanics, software development, and sound design.<br><br>
+My portfolio encompasses:
 
-🧠 Lifelong learner.  <br>
-💻 Passionate builder.  <br>
-🎧 Creative innovator.
+* **Systematic Software Design:**<br>
+Developing **modular and highly configurable software solutions** and utility applications, emphasizing **type safety** (through structures and enums) and **clear separation of concerns** (Manager-based architecture).
+* **Game and Engine Systems:**<br>
+Implementing core **game mechanics, I/O systems, and foundational data structures** (e.g., custom vector and coordinate management) for grid-based applications and interactive projects.
+* **Infrastructure & Automation:**<br>
+Designing and maintaining local server environments to support **development workflows, project testing, and automation scripts**.
+* **Creative Implementation:**<br>
+Applying strong logic to creative domains, including **custom audio synthesis** (digital sound systems) and **effective console visualization**.
+
+I excel at translating complex ideas into precise, scalable code, always focusing on **precision, efficiency, and architectural coherence**.
+
+🧠 **_Analytical and detail-oriented._**<br>
+💻 **_Committed to clean, production-ready code._**<br>
+🎧 **_Driven by innovation at the intersection of logic and creativity._**<br>
 
 ---
 
