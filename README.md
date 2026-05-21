@@ -4,7 +4,7 @@
 
 I am a **Games Programming student at SAE Institute Bochum**, focused on writing clean, functional, and well-structured code. My main tools are **C# and Unity**, but I also work a lot with **Python** and am currently learning **Java** to build custom tools and game servers. 
 
-Whether it's working on **"Fracture"** (my main project for this semester), building a **2D Jump’n’Run controller**, or prototyping mechanics like a **monster-fight simulator**, I always aim to write modular, organized code that just works.
+Whether it's working on **university projects**, building **2D movement systems**, or prototyping gameplay mechanics like **combat simulators**, I always aim to write modular, organized code that just works.
 
 What I focus on:
 
@@ -33,9 +33,9 @@ I love taking complex logic puzzles and breaking them down into clean, scalable 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=thisisavoiid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thisisavoiid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=thisisavoiid&theme=dark&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thisisavoiid&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&theme=dark&layout=compact)
 
 # ✍️ Random Dev Quote
 
