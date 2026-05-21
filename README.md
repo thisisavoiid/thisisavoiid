@@ -33,9 +33,9 @@ I love taking complex logic puzzles and breaking them down into clean, scalable 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=thisisavoiid&theme=dark&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisisavoiid&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thisisavoiid\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thisisavoiid\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid\&theme=dark)
 
 # ✍️ Random Dev Quote
 
