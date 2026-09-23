@@ -14,7 +14,7 @@
 
 ---
 
-## `whoami`
+## `> whoami`
 
 **Jonathan** — Games Programming @ **SAE Institute Bochum**
 
@@ -27,7 +27,7 @@ Outside of code I produce electronic music as **AVØIID**.
 
 ---
 
-## `currently`
+## `> currently`
 
 ```text
 🎮  Game Development     Unity / C# / Gameplay Systems
@@ -39,7 +39,7 @@ Outside of code I produce electronic music as **AVØIID**.
 
 ---
 
-## `stack`
+## `> stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,python,vscode,visualstudio,linux,bash,git,discord,ableton&perline=6" />
@@ -47,7 +47,7 @@ Outside of code I produce electronic music as **AVØIID**.
 
 ---
 
-## `github`
+## `> github`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisisavoiid&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" />
@@ -60,7 +60,7 @@ Outside of code I produce electronic music as **AVØIID**.
 
 ---
 
-## `projects`
+## `> projects`
 
 <table>
 <tr>
