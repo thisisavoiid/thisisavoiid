@@ -50,11 +50,6 @@ Outside of code I produce electronic music as **AVØIID**.
 ## `> github`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisisavoiid&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=thisisavoiid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
