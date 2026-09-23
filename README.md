@@ -8,7 +8,7 @@
 
 Games Programming student at SAE Institute Bochum.
 
-I mostly work in **C# + Unity**, write a lot of **Python**, and I'm currently learning **Java** so I can build my own tools and systems.
+I mostly work in **C# + Unity**, write a lot of **Python**, and build my own tools and systems.
 
 Right now I'm working on university projects, 2D movement systems, combat simulators, Discord bots (discord.py with cogs), Minecraft plugins (Spigot), and running a small Ubuntu home server for experiments.
 
@@ -16,13 +16,17 @@ I like keeping code modular and easy to extend — managers, clear separation be
 
 <br/>
 
+---
+
 ### Tech I use a lot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,python,java,linux,bash,git,discord,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,python,vscode,visualstudio,linux,bash,git,discord,ableton&perline=6" />
 </p>
 
 <br/>
+
+---
 
 ### GitHub Stats
 
@@ -32,5 +36,47 @@ I like keeping code modular and easy to extend — managers, clear separation be
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisavoiid&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=thisisavoiid&theme=tokyonight&hide_border=true" />
 </p>
+
+<br/>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thisisavoiid&theme=tokyonight&no-frame=true&margin-w=12&row=1" />
+</p>
+
+<br/>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavoiid&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br/>
+
+---
+
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br/>
+
+---
+
+### Now Playing
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=8A2BE2" alt="Spotify Now Playing" />
+</p>
+
+<br/>
