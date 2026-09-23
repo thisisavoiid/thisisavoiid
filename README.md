@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-I'm Jonathan — a Games Programming student at **SAE Institute Bochum**.
+I'm Jonathan - a Games Programming student at **SAE Institute Bochum**.
 
 Most of my time goes into **C#**, **Unity** and **.NET**, with Python and C++ filling in the gaps when a project calls for it.
 
@@ -100,7 +100,7 @@ Focus on reusable architecture, event-driven systems, dynamic environments and c
 </td>
 <td width="50%">
 
-### 🧩 Noch Unbekannt
+### 🧩 Escaper
 
 A C++ text adventure / escape-room project using **FTXUI**.
 
@@ -116,7 +116,7 @@ Room, Area and Action based architecture with event-driven interactions and bran
 
 ## `> beyond_code`
 
-**AVØIID** — electronic music producer.
+**AVØIID** - electronic music producer.
 
 Future Bounce / Bass House / electronic stuff.
 
