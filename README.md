@@ -76,7 +76,7 @@ I like keeping code modular and easy to extend — managers, clear separation be
 ### Now Playing
 
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=8A2BE2" alt="Spotify Now Playing" />
+  <img src="https://widget.nowplaying.site/IYk0aEGpCl6oN7RU" alt="Spotify Now Playing" />
 </p>
 
 <br/>
