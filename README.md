@@ -60,22 +60,6 @@ Outside of code I produce electronic music as **AVØIID**.
 
 ---
 
-## `activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavoiid&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
----
-
-## `trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thisisavoiid&theme=tokyonight&no-frame=true&margin-w=12&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## `projects`
 
 <table>
@@ -96,14 +80,3 @@ Room → Area → Action architecture with event-driven interactions and branchi
 </td>
 </tr>
 </table>
-
----
-
-## `beyond_code`
-
-**AVØIID** — electronic music  
-Future Bounce / Bass House / electronic
-
-<a href="https://github.com/thisisavoiid">
-  <img src="https://img.shields.io/badge/AV%C3%98IID-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="AVØIID" />
-</a>
