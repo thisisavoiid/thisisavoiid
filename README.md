@@ -16,7 +16,7 @@
 
 ## `> whoami`
 
-**Jonathan** — Games Programming @ **SAE Institute Bochum**
+**Jonathan** - Games Programming @ **SAE Institute Bochum**
 
 I spend most of my time in **C#**, **Unity** and **.NET**.  
 Python and C++ jump in when the project needs them.
