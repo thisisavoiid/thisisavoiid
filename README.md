@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,100:A855F7&height=220&section=header&text=AVØIID&fontColor=FFFFFF&fontSize=64&fontAlignY=38&animation=fadeIn" alt="Header" width="100%" />
 
@@ -22,28 +22,27 @@
 ```text
 name        Jonathan
 alias       AVØIID
-focus       gameplay systems, tools, bots, prototypes
+focus       gameplay systems, tools, rendering, prototypes
 languages   C# / C++ / Python
 principle   modular over monolithic
 ```
 
-I spend most of my time in **C#**, **Unity** and **.NET**.  
-Python and C++ jump in when the project needs them.
+I mostly work in **C#**, **Unity** and **.NET**. Python and C++ come in when a project calls for them.
 
-I build systems from the ground up: gameplay, tools, bots, prototypes and architectures that stay modular instead of collapsing into one giant manager class.
+I like building things from the ground up: gameplay systems, tools, bots and prototypes. My main rule is to keep them modular, so nothing ends up as one giant manager class that nobody wants to touch. Lately I also work closer to the GPU and write my own rendering code in C++ and OpenGL.
 
-Outside of code I produce electronic music as **AVØIID**.
+Away from the keyboard I produce electronic music as **AVØIID**.
 
 ---
 
 ## `> currently`
 
 ```text
-[game dev]        Unity / C# / Gameplay Systems
-[architecture]    Modular & event-driven
-[tools]           .NET / Python / C++
+[game dev]        Unity / C# / gameplay systems
+[graphics]        C++ / OpenGL / GLSL
+[architecture]    modular, event-driven
 [music]           AVØIID / FL Studio
-[infrastructure]  Linux / Ubuntu / Home Server
+[infrastructure]  Linux / Ubuntu / home server
 ```
 
 ---
@@ -62,22 +61,20 @@ Outside of code I produce electronic music as **AVØIID**.
 <tr>
 <td width="50%" valign="top">
 
-### Fracture
-Modular first-person shooter in **Unity 6 / C#**.  
-Focus on reusable architecture, event-driven systems, dynamic environments and clean separation of gameplay systems.
+### 3D Model Viewer
+A real-time model viewer written in **C++** with **OpenGL** and **GLSL**. I built it to understand the render pipeline from the inside: loading a model, sending it to the GPU and shading it myself instead of leaning on an engine.
 
 ```text
-engine    Unity 6
-language  C#
-style     modular / event-driven
+language  C++
+graphics  OpenGL
+shaders   GLSL
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ### Escaper
-C++ text adventure / escape-room built with **FTXUI**.  
-Room → Area → Action architecture with event-driven interactions and branching flow.
+A text adventure and escape room for the terminal, built in **C++** with **FTXUI**. Rooms contain areas, areas contain actions, and interactions trigger events that branch the story.
 
 ```text
 language  C++
@@ -92,13 +89,6 @@ style     polymorphic / event-driven
 ---
 
 ## `> github`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGE-C%23-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="C#" />
-  <img src="https://img.shields.io/badge/LANGUAGE-C++-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="C++" />
-  <img src="https://img.shields.io/badge/LANGUAGE-Python-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="Python" />
-  <img src="https://img.shields.io/badge/SHADERS-HLSL-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="HLSL" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thisisavoiid&hide_border=true&background=0D0D0F&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
