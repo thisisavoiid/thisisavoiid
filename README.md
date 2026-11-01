@@ -96,8 +96,10 @@ style     polymorphic / event-driven
 ## `> github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisavoiid&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=A855F7&icon_color=A855F7&text_color=9CA3AF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=A855F7&text_color=9CA3AF" height="170" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="C#" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C++-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="C++" />
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="Python" />
+  <img src="https://img.shields.io/badge/SHADERS-HLSL-A855F7?style=for-the-badge&labelColor=0D0D0F" alt="HLSL" />
 </p>
 
 <p align="center">
