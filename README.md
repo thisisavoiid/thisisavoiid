@@ -1,15 +1,14 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,100:A855F7&height=220&section=header&text=AVØIID&fontColor=FFFFFF&fontSize=64&fontAlignY=38&animation=fadeIn" alt="Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Games+Programming+%40+SAE+Bochum;C%23+%2F+Unity+%2F+.NET;Building+systems%2C+tools+%26+games;Music+%40+AV%C3%98IID" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+software%2C+breaking+things%2C+making+music;C%23+%2F+Unity+%2F+.NET;Gameplay+systems%2C+tools+%26+prototypes;Electronic+music+%40+AV%C3%98IID" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/thisisavoiid">
   <img src="https://komarev.com/ghpvc/?username=thisisavoiid&style=for-the-badge&color=A855F7&labelColor=0D0D0F&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
-<img src="https://img.shields.io/badge/SAE_BOCHUM-0D0D0F?style=for-the-badge&labelColor=0D0D0F&color=A855F7" alt="SAE Bochum" />
 <img src="https://img.shields.io/badge/FL_STUDIO-0D0D0F?style=for-the-badge&labelColor=0D0D0F&color=A855F7" alt="FL Studio" />
 
 </div>
@@ -23,7 +22,6 @@
 ```text
 name        Jonathan
 alias       AVØIID
-studies     Games Programming @ SAE Institute Bochum
 focus       gameplay systems, tools, bots, prototypes
 languages   C# / C++ / Python
 principle   modular over monolithic
