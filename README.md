@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jonathan;Games+Programming+%40+SAE+Bochum;C%23+%2F+Unity+%2F+.NET;Building+systems%2C+tools+%26+games;Music+%40+AV%C3%98IID" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,100:A855F7&height=220&section=header&text=JONATHAN&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=AV%C3%98IID&descAlignY=60&descSize=22&animation=fadeIn" alt="Header" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Games+Programming+%40+SAE+Bochum;C%23+%2F+Unity+%2F+.NET;Building+systems%2C+tools+%26+games;Music+%40+AV%C3%98IID" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://github.com/thisisavoiid">
-  <img src="https://komarev.com/ghpvc/?username=thisisavoiid&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thisisavoiid&style=for-the-badge&color=A855F7&labelColor=0D0D0F&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
+<img src="https://img.shields.io/badge/SAE_BOCHUM-0D0D0F?style=for-the-badge&labelColor=0D0D0F&color=A855F7" alt="SAE Bochum" />
+<img src="https://img.shields.io/badge/FL_STUDIO-0D0D0F?style=for-the-badge&labelColor=0D0D0F&color=A855F7" alt="FL Studio" />
 
 </div>
 
@@ -16,7 +20,14 @@
 
 ## `> whoami`
 
-**Jonathan** - Games Programming @ **SAE Institute Bochum**
+```text
+name        Jonathan
+alias       AVØIID
+studies     Games Programming @ SAE Institute Bochum
+focus       gameplay systems, tools, bots, prototypes
+languages   C# / C++ / Python
+principle   modular over monolithic
+```
 
 I spend most of my time in **C#**, **Unity** and **.NET**.  
 Python and C++ jump in when the project needs them.
@@ -30,11 +41,11 @@ Outside of code I produce electronic music as **AVØIID**.
 ## `> currently`
 
 ```text
-🎮  Game Development     Unity / C# / Gameplay Systems
-🧩  Architecture         Modular & event-driven
-🛠️  Tools                .NET / Python / C++
-🎵  Music                AVØIID / Ableton
-🐧  Infrastructure       Linux / Ubuntu / Home Server
+[game dev]        Unity / C# / Gameplay Systems
+[architecture]    Modular & event-driven
+[tools]           .NET / Python / C++
+[music]           AVØIID / FL Studio
+[infrastructure]  Linux / Ubuntu / Home Server
 ```
 
 ---
@@ -42,15 +53,7 @@ Outside of code I produce electronic music as **AVØIID**.
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,python,vscode,visualstudio,linux,bash,git,discord,ableton&perline=6" />
-</p>
-
----
-
-## `> github`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thisisavoiid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,python,vscode,visualstudio,linux,bash,git,discord&perline=6&theme=dark" />
 </p>
 
 ---
@@ -61,17 +64,50 @@ Outside of code I produce electronic music as **AVØIID**.
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Fracture
+### Fracture
 Modular first-person shooter in **Unity 6 / C#**.  
 Focus on reusable architecture, event-driven systems, dynamic environments and clean separation of gameplay systems.
+
+```text
+engine    Unity 6
+language  C#
+style     modular / event-driven
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Escaper
+### Escaper
 C++ text adventure / escape-room built with **FTXUI**.  
 Room → Area → Action architecture with event-driven interactions and branching flow.
+
+```text
+language  C++
+ui        FTXUI
+style     polymorphic / event-driven
+```
 
 </td>
 </tr>
 </table>
+
+---
+
+## `> github`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisavoiid&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=A855F7&icon_color=A855F7&text_color=9CA3AF" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavoiid&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=A855F7&text_color=9CA3AF" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thisisavoiid&hide_border=true&background=0D0D0F&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0D0D0F&height=120&section=footer" alt="Footer" width="100%" />
+
+</div>
