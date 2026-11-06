@@ -81,6 +81,17 @@ language  C++
 ui        FTXUI
 style     polymorphic / event-driven
 ```
+</td>
+<td width="50%" valign="top">
+  
+### GoveeAmbilight
+A small C# ambilight tool for Govee lights. It captures the screen, calculates the average color, and continuously sends it to a Govee device on the local network via UDP.
+  
+```text
+language  C#
+platform  Windows
+protocol  UDP / local LAN
+```
 
 </td>
 </tr>
