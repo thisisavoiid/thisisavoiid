@@ -73,8 +73,8 @@ shaders   GLSL
 </td>
 <td width="50%" valign="top">
 
-### Escaper
-A text adventure and escape room for the terminal, built in **C++** with **FTXUI**. Rooms contain areas, areas contain actions, and interactions trigger events that branch the story.
+### EasyAdventure
+A custom-made text adventure engine built in **C++** with **FTXUI**. The repository contains both the engine and a complete example implementation. Rooms contain areas, areas contain actions, and interactions trigger events that drive the story.
 
 ```text
 language  C++
